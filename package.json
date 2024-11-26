@@ -1,7 +1,14 @@
 {
 	"author": "Matias D'Agostino",
 	"description": "freeCodeCamp -- Managing Packages with NPM",
+	"keywords": [
+		"freecodecamp",
+		"related",
+		"words"
+	],
+	"license": "It's just a test, so you can do whatever you want with it",
 	"name": "fcc-learn-npm-package-json",
+	"version": "0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
