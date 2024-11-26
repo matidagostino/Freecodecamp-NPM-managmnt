@@ -1,4 +1,6 @@
 {
+	"author": "Matias D'Agostino",
+	"description": "freeCodeCamp -- Managing Packages with NPM",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
@@ -10,6 +12,5 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	},
-	"Author" : "Matias D'Agostino"
+	}
 }
